@@ -1,0 +1,102 @@
+<style>
+
+      @font-face {
+        font-family: 'roboto';
+        src: url('Roboto-Light-webfont.woff') format('woff');
+      }
+
+      body {
+        font-family: 'Roboto', sans-serif;
+        font-size: 12px;
+        line-height: 14px;
+      }
+
+      #container {
+        width: 400px;
+        box-sizing: border-box;
+        background-color: lemonchiffon;
+        border-width: 5px;
+        border-style: solid;
+        border-color: maroon;
+        padding: 30px;
+      }
+
+      #bio {
+        width: 300px;
+        padding-top: 5px;
+        background-color: gray;
+        height: 125px;
+        
+      }
+
+      #list {
+        width: 300px;
+        Padding-top: 5px;
+        background-color: blanchedalmond;
+        height: 200px;
+        list-style: none;
+      }
+
+      #what {
+        width: 300px;
+        Padding-top: 5px;
+        background-color: aqua;
+        height: 125px;
+      }
+
+      #foot {
+        width: 300px;
+        Padding-top: 20px;
+        background-color: coral;
+        height: 40px;
+      }
+
+      .heads {
+        width: 200px;
+        background-color: white;
+        padding: 3px;
+      }
+
+      .does-it {
+        font-size: 8pt;
+        font-family: sans-serif;
+      }
+
+      .the-list {
+        background: darkgray;
+      }
+
+      .list-me {
+        font-size: 8pt;
+        font-weight: bold;
+      }
+
+      .home-button {
+        background-color: gray;
+        border: none;
+        color: black;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 12pt;
+        font-family: sans-serif;
+        padding: 5px 5px;
+        text-align: center;
+        margin-bottom: 45px;
+        margin-left:20px;
+        cursor: pointer;
+      }
+
+      .buttons {
+        background-color: ghostwhite;
+        border: none;
+        color: black;
+        padding: 5px 5px;
+        text-align: center;
+        text-decoration: bold;
+        display: inline-block;
+        font-size: 10px;
+        margin: 1px 5px;
+        cursor: pointer;
+      }
+
+      </style>
